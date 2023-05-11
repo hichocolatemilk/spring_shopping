@@ -35,4 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
-!/item/
+
+/item/
+/src/main/java/com/example/shop/controller/ThymeleafExController.java
+/src/main/resources/application.yml
+/src/main/resources/templates/thymeleafEx
